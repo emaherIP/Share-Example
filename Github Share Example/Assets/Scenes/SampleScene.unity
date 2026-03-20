@@ -426,6 +426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b34709d647494233b98358e1c0d2204, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  testObject: {fileID: 5562146870264630588, guid: 84c0ed69dfe3745fa87eb59dd24b404c, type: 3}
   redLight: {fileID: 800574036}
   yellowLight: {fileID: 1831973798}
   greenLight: {fileID: 1130139824}
